@@ -1,0 +1,73 @@
+
+.fond {
+    background-color: slategrey;
+}
+
+.slider h1 {
+    color: white;   
+}
+.slider p {
+    color: white;  
+}
+
+.slider hr {
+    width: 33%;
+    display: block;
+}
+
+.slider .decalage {
+    margin-top: 200px;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.espace-bloc{
+    padding: 70px 0;
+}
+hr {
+    width:33%;
+    display: inline-block;
+}
+
+.taille
+{
+    font-size: 35px;
+}
+
+.police{
+    font-family: fantasy;
+
+}
+.couleur{
+    color: red;
+
+}
+.style{
+    font-weight: bold;
+}
+ button
+ {
+     color: black;
+ }
+
+ul {
+	font-size: 20px;
+}
+
+
+
+.fond-image{
+	background-image: url(../intro-bg.jpg);
+
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 50px;
+	
+}
+p
+{
+	font-size: 20px;
+}
